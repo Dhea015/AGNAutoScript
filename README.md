@@ -46,7 +46,7 @@ BOT MANAGER:
 
 # Installation
 ```
-rm -rf install-without-key.sh; apt update; apt install curl; apt install bc; wget https://github.com/Dhea015/VPS-AGN_English_Official/raw/main/installer/install-without-key.sh; chmod 777 install-without-key.sh; ./install-without-key.sh --start
+rm -rf install-without-key.sh; apt update; apt install curl; apt install bc; wget https://github.com/Dhea015/installer/install-without-key.sh; chmod 777 install-without-key.sh; ./install-without-key.sh --start
 
 ```
 
