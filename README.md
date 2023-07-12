@@ -46,34 +46,12 @@ BOT MANAGER:
 
 # Installation
 ```
-rm -rf install-without-key.sh; apt update; apt install curl; apt install bc; wget https://github.com/khaledagn/VPS-AGN_English_Official/raw/main/installer/install-without-key.sh; chmod 777 install-without-key.sh; ./install-without-key.sh --start
+rm -rf install-without-key.sh; apt update; apt install curl; apt install bc; wget https://github.com/Dhea015/VPS-AGN_English_Official/raw/main/installer/install-without-key.sh; chmod 777 install-without-key.sh; ./install-without-key.sh --start
 
 ```
 
 
-## :octocat: Translated and Modded by KHALED AGN
-<ul>
- <li>TELEGRAM CHANNEL: https://t.me/khaledagn</li>
- <li>FACEBOOK: https://www.facebook.com/khaledagn.me</li>
- <li>INSTAGRAM: https://www.instagram.com/khaledagn</li>
- <li>TWITTER: https://www.instagram.com/khaled_agn</li>
- 
- </ul>
- 
-
-## :octocat: Credits
-
-1. [@Kalix1 - Developer of VPS-MX](https://github.com/VPS-MX)
-2. [@Rufu99 - Contributor](https://github.com/rudi9999)
-3. [Casita Dev Team - Contributor](https://github.com/lacasitamx)
-4. [illuminati Dev Team - Contributor](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ) 
-
-```
-? https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ???? ] ?
-
-
-
-
+Full Credits to the OWNER (This was made for backup)
 
 
 
