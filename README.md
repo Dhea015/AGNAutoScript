@@ -1,8 +1,8 @@
-# VPS-AGN By KHALED AGN ( MOD ENGLISH )
+# VPS-AGN ( MOD ENGLISH )
 ```
 * VPS-AGN (Final Version OF VPS-MX 8.5x)
 ```
-![logo](https://raw.githubusercontent.com/khaledagn/VPS-AGN_English_Official/main/VPS-AGN.png)
+![logo](https://github.com/Dhea015/AGNAutoScript/blob/main/VPS-AGN.png)
 
 ```
 # SCRIPT VPS•AGN ® VPS Script Manager
@@ -46,7 +46,7 @@ BOT MANAGER:
 
 # Installation
 ```
-rm -rf install-without-key.sh; apt update; apt install curl; apt install bc; wget https://github.com/Dhea015/installer/install-without-key.sh; chmod 777 install-without-key.sh; ./install-without-key.sh --start
+rm -rf install-without-key.sh; apt update; apt install curl; apt install bc; wget https://github.com/Dhea015/AGNAutoScript/tree/main/installer/install-without-key.sh; chmod 777 install-without-key.sh; ./install-without-key.sh --start
 
 ```
 
